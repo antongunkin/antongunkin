@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I’m Anton. I’m a Senior Frontend Engineer in New York building React/Next.js products with a focus on design systems, performance (Core Web Vitals), accessibility, and reliable delivery. I enjoy turning messy problems into clean component architecture, fast pages, and tooling that helps teams ship confidently.
+
 <!--
 **antongunkin/antongunkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
