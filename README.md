@@ -1,24 +1,11 @@
-## Senior Software Engineer in New York. React, Next.js, TypeScript, Node.js.
+## Senior Software Engineer
+
+New York, React, Next.js, TypeScript, Node.js.
 
 At Jabra Hearing I was the lead engineer on the JabraEnhance.com frontend, an online hearing-aid store with 500K+ monthly users. I shipped checkout and payments end to end, from Postgres to React.
 
 Building now:
-- [uiify](https://uiify.gunkin.dev): performance-first React UI library
+- [uiify](https://uiify.gunkin.dev): Performance-first React UI library
 - [OctoCMS](https://octocms.gunkin.dev): GitHub-based CMS for Next.js with a type-safe content API
 
 [gunkin.dev](https://gunkin.dev) · [LinkedIn](https://www.linkedin.com/in/gunkin/)
-
-<!--
-**antongunkin/antongunkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
