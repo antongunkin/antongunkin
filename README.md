@@ -1,6 +1,12 @@
-## Hi there 👋
+## Senior Software Engineer in New York. React, Next.js, TypeScript, Node.js.
 
-I’m Anton. I’m a Senior Frontend Engineer in New York building React/Next.js products with a focus on design systems, performance (Core Web Vitals), accessibility, and reliable delivery. I enjoy turning messy problems into clean component architecture, fast pages, and tooling that helps teams ship confidently.
+At Jabra Hearing I was the lead engineer on the JabraEnhance.com frontend, an online hearing-aid store with 500K+ monthly users. I shipped checkout and payments end to end, from Postgres to React.
+
+Building now:
+- [uiify](https://uiify.gunkin.dev): performance-first React UI library
+- [OctoCMS](https://octocms.gunkin.dev): GitHub-based CMS for Next.js with a type-safe content API
+
+[gunkin.dev](https://gunkin.dev) · [LinkedIn](https://www.linkedin.com/in/gunkin/)
 
 <!--
 **antongunkin/antongunkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
