@@ -6,6 +6,6 @@ At Jabra Hearing I was the lead engineer on the JabraEnhance.com frontend, an on
 
 Building now:
 - [uiify](https://uiify.gunkin.dev): Performance-first React UI library
-- [OctoCMS](https://octocms.gunkin.dev): GitHub-based CMS for Next.js with a type-safe content API
+- [Editlet](https://editlet.gunkin.dev/): GitHub-based CMS for Next.js and Astro with a type-safe content API
 
 [gunkin.dev](https://gunkin.dev) · [LinkedIn](https://www.linkedin.com/in/gunkin/)
